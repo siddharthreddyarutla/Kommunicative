@@ -8,4 +8,4 @@ UI components and backend design.
 
 Tech stacks: python,machine learning,java,JDBC,HTML,CSS,Javascript,ReactJs
 
-Click here for more [LINK](https://github.com/siddharthreddyarutla/AI-Enabled-FinTech-B2B-Invoice-Management-application-)
+[LINK](https://github.com/siddharthreddyarutla/AI-Enabled-FinTech-B2B-Invoice-Management-application-)
